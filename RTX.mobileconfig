@@ -8,11 +8,11 @@
             <key>FullScreen</key>
             <true/>
             <key>Label</key>
-            <string> hacker RTX</string>
+            <string> hacker ZYC</string>
             <key>PayloadDisplayName</key>
-            <string>RTX Web App</string>
+            <string>ZYV Web App</string>
             <key>PayloadIdentifier</key>
-            <string>com.rtx.ios</string>
+            <string>com.zyc.ios</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
