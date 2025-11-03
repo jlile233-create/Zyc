@@ -32,11 +32,11 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>RTX TOP 1</string>
+    <string>ZYC TOP 1</string>
     <key>PayloadIdentifier</key>
     <string>com.rtx.mobileconfig</string>
     <key>PayloadOrganization</key>
-    <string>RTX TOP 1</string>
+    <string>ZYC TOP 1</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
